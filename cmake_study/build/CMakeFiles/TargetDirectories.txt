@@ -1,3 +1,0 @@
-/Users/chamip/github/cmake_practice/cmake_study/build/CMakeFiles/cmake_study.dir
-/Users/chamip/github/cmake_practice/cmake_study/build/CMakeFiles/edit_cache.dir
-/Users/chamip/github/cmake_practice/cmake_study/build/CMakeFiles/rebuild_cache.dir
